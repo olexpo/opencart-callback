@@ -13,5 +13,5 @@ Installation
 --
 
 1. Copy files to the root category;
-2. Use next links construction in you template: <?php echo $this->url->link('information/callback'); ?>
+2. Use next links construction in your template: <?php echo $this->url->link('information/callback'); ?>
 3. Enjoy!
