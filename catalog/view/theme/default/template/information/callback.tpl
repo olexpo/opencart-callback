@@ -16,7 +16,6 @@
  * @package    OCU Callback
  * @copyright  Copyright (c) 2011 Eugene Kuligin by OpenCart Ukrainian Community (http://opencart-ua.org)
  * @license    http://www.gnu.org/copyleft/gpl.html     GNU General Public License, Version 3
- * @version    $Id: admin/language/shipping/ocu_ukrposhta.php 1 2011-11-19 01:07:46
  */
 
  ?>
